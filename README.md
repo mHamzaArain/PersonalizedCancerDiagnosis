@@ -1,7 +1,7 @@
 # Personalized Cancer Diagnosis
 
 
-<img width=100% src="https://userscontent2.emaze.com/images/c24de960-a434-4548-b339-9e4e2ffed8b8/df4f1f5b39826ead3bbc67dfee4bb390.png">
+<img width=100% src="https://www1.racgp.org.au/getattachment/8e4a0311-e904-45b2-9871-c46b0c43edc8/attachment.aspx">
 
 ## 1. Business Problem
 ### 1.1. Description
